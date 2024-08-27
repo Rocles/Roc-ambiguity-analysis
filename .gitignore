@@ -1,0 +1,54 @@
+# Fichiers et répertoires à ignorer pour Git
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Environnement virtuel
+venv/
+env/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Fichiers de log
+*.log
+
+# Fichiers de configuration
+*.sqlite3
+
+# Fichiers temporaires
+*.tmp
+*.swp
+
+# Exclure les données sensibles
+.env
+
+# Fichiers spécifiques au projet
+*.pdf
+*.csv
+*.xlsx
+*.txt
+
+# Exclure les répertoires des tests
+tests/
