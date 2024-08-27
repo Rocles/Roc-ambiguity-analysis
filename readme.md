@@ -1,8 +1,8 @@
-# Roc Ambiguity Finder
+# Roc Ambiguity Analysis
 
 ## Résumé du Projet
 
-Le projet **Roc Ambiguity Finder** a pour objectif de détecter les ambiguïtés dans les textes en utilisant une approche basée sur la structure triplet (sujet, prédicat, objet). Cette méthode facilite l'analyse et la clarification des exigences logicielles en mettant en évidence les phrases ambiguës qui ne respectent pas cette structure.
+Le projet **Roc Ambiguity Analysis** a pour objectif de détecter les ambiguïtés dans les textes en utilisant une approche basée sur la structure triplet (sujet, prédicat, objet). Cette méthode facilite l'analyse et la clarification des exigences logicielles en mettant en évidence les phrases ambiguës qui ne respectent pas cette structure.
 
 ### Fonctionnalités Principales
 - **Analyse de texte** : Importez un fichier texte ou saisissez manuellement un texte pour l'analyser.
